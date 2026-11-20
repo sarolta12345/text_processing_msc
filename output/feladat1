@@ -1,0 +1,77 @@
+1.1
+sor 22316
+szó 215838
+karakter 1238226
+
+1.2
+sor "whale" 1620
+egész szóként 1183
+
+1.3
+an- kezdődő 8:an
+            9:an-organic
+nem an- kezdődő apple
+                fig
+                every
+                Any
+1.4
+szövegesen
+1
+10
+2
+251
+30
+numerikusan
+1
+2
+10
+30
+251
+
+1.5
+apple  10  4.5
+apple  25  4.0
+cherry  15  2.3
+banana  20  1.2
+
+1.6
+   2127 i
+   1900 he
+   1827 s
+   1822 but
+   1770 with
+   1753 as
+   1748 is
+   1647 was
+   1644 for
+   1544 all
+   1441 this
+
+   1.7
+   különböző szó 17136
+   előfordulás 7417
+
+   1.8
+   csak az első szövegben
+   A Garden of Talking Flowers
+Through the Looking Glass
+
+csak a második szövegben
+A Curious Oyster
+A Garden of Singing Flowers
+Through the Looking-Glass
+
+mind a kettőben
+Alice in Wonderland
+Jabberwocky
+Mad Hatter's Tea Party
+The Cheshire Cat
+The Pool of Tears
+The Red Queen
+The White Rabbit
+
+1.9 
+apple   22
+banana  11
+cherry  53
+orange  8
