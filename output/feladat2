@@ -1,0 +1,82 @@
+ 2.1
+apple         35
+banana        20
+cherry        15
+
+2.2
+COMPLETED: 40
+FAILED:    2
+
+2.3
+FASTQC: 8
+FASTP: 8
+SPADES: 9
+PROKKA: 9
+AMRFINDER: 8
+
+2.4
+SPADES (sample03) 137
+PROKKA (sample06) 1
+SPADES (sample07) 717 
+
+2.5
+INFO: 45
+DEBUG: 41
+WARN: 2
+ERROR: 2
+
+2.6
+09:14         14
+09:15         16
+09:16         12
+
+2.7
+Xanthomonas oryzae                      2  4736136
+Bacillus subtilis                       2  4190468
+Pseudomonas aeruginosa                  5  6634927
+Enterobacter hormaechei                 2  4983230
+Salmonella enterica                     2  4870346
+Escherichia coli                        6  5080646
+Klebsiella pneumoniae                   6  5738658
+
+2.8
+Átlagos GC%: 50.14%
+Legnagyobb genom: Streptomyces canus
+Genomméret: 12157638 bp
+
+2.9
+date
+2022/08/11
+2023/09/02
+2023/10/14
+2023/11/28
+
+1 sample(s) from 2022
+3 sample(s) from 2023
+
+2.10
+1420
+
+2.11
+DEBUG: 220
+INFO: 10
+WARN: 2
+
+2.12
+4 [Task monitor]
+8 [Task submitter]
+210 [main]
+
+2.13
+Első időbélyeg: 17:38:56.223
+Utolsó időbélyeg: 17:39:09.835
+Futás időtartama: 13 másodperc
+Futás időtartama: 0.23 perc
+
+2.14
+Megszakítás pillanata:
+Nov-16 17:39:08.756 [main] WARN  n.processor.TaskPollingMonitor - Killing running tasks (3)
+
+Megszakítás utáni sor:
+Nov-16 17:39:08.776 [main] DEBUG n.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=1; failedCount=0; ignoredCount=0; cachedCount=2; pendingCount=0; submittedCount=1; runningCount=-1; retriesCount=0; abortedCount=3; succeedDuration=8.6s; failedDuration=0ms; cachedDuration=4.4s;loadCpus=-2; loadMemory=0; peakRunning=3; peakCpus=12; peakMemory=70 GB; ]
+
